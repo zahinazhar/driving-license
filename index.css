@@ -77,7 +77,7 @@ nav ul li a:hover {
     justify-content: center;
     align-items: center;
     position: relative;
-    max-width: 50%;
+    max-width: 100%;
     margin: 20px auto;
     overflow: hidden;
     border-radius: 10px;
@@ -87,7 +87,7 @@ nav ul li a:hover {
 }
 
 .carousel-container {
-    width: 50%;
+    width: 100%;
     overflow: hidden;
 }
 
@@ -97,11 +97,11 @@ nav ul li a:hover {
 }
 
 .carousel-item {
-    min-width: 50%;
+    min-width: 100%;
 }
 
 .carousel-item img {
-    width: 50%;
+    width: 100%;
     height: auto;
     border-radius: 10px;
 }
